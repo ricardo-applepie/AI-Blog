@@ -1,0 +1,19 @@
+# Setup
+title:  AI AND DOCTORS IN PROSPECT; THE MERGE
+tagline: Ricardo's blog post
+baseurl: '/AI-blog'
+url: ricardo-applepie.github.io
+paginate: 1
+locale: 'en'
+
+# About/contact
+author:
+  name: Author name
+  # url: http://yourhomepage.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
