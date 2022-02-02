@@ -1,7 +1,7 @@
 # Setup
 title:  AI AND DOCTORS IN PROSPECT; THE MERGE
 tagline: Ricardo's blog post
-baseurl: '/testblog'
+baseurl: '/AI-blog'
 url: ricardo-applepie.github.io
 paginate: 1
 locale: 'en'
